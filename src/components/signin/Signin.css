@@ -1,0 +1,21 @@
+.signin-btn{
+    color: black;
+    display: flex;
+    align-items: center;
+    background-color: wheat;
+    border-radius: 10px;
+    border: none;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 15px 32px;
+    font-size: 1.2rem;
+}
+.signin-btn img{
+    width: 35px;
+    height: 35px;
+    margin-right: 15px;
+}
+p{
+    color: white;
+    text-align: center;
+}
